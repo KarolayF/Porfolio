@@ -40,6 +40,8 @@ git clone (https://github.com/KarolayF/Porfolio.git)
 
 2.Abre el archivo index.html en tu navegador.
 
-📄 Licencia
+
+
+## 📄 Licencia
 Este proyecto está bajo la licencia MIT.
 
