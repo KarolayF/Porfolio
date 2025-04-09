@@ -44,5 +44,5 @@ _O clonar el repositorio para verlo localmente:_
 git clone https://github.com/karolayjavier/portfolio.git
 ```
 
-Licencia
+## Licencia
 Este proyecto está bajo la licencia MIT.
