@@ -34,10 +34,3 @@ O clonar el repositorio para verlo localmente:
 
 ```bash
 git clone https://github.com/karolayjavier/portfolio.git
-
-
-
-
-## 📄 Licencia
-Este proyecto está bajo la licencia MIT.
-
