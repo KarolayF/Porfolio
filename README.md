@@ -36,7 +36,7 @@ o
 
 1. Clona el repositorio:
 ```bash
-git clone (https://github.com/KarolayF/Porfolio.git)
+git clone (https://github.com/KarolayF/Porfolio.git).
 
 2. Abre el archivo index.html en tu navegador.
 
