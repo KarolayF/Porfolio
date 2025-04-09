@@ -19,12 +19,19 @@ Portafolio profesional de Karolay Javier, estudiante de Ingeniería en Sistemas 
 
 ##  Estructura del Proyecto
 portfolio-karolay/
+
 ├── assets/
+
 │ ├── foto.jpg # Foto profesional
+
 ├── Main.html # Página principal
+
 ├── curriculum.html # Página de CV
+
 ├── style.css # Estilos principales
+
 └── README.md # Este archivo
+
 ## Cómo acceder
 
 Puedes visitar el sitio directamente aquí:  
