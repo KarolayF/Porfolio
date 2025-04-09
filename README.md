@@ -35,13 +35,14 @@ portfolio-karolay/
 ## Cómo acceder
 
 Puedes visitar el sitio directamente aquí:  
-👉 
+```
+👉
 
 O clonar el repositorio para verlo localmente:
 
-
-git clone https://github.com/karolayjavier/portfolio.git
 ```
+git clone https://github.com/karolayjavier/portfolio.git
+
 
 Licencia
 Este proyecto está bajo la licencia MIT.
