@@ -26,19 +26,15 @@ portfolio-karolay/
 ├── style.css # Estilos principales
 └── README.md # Este archivo
 ## Cómo acceder
-El portafolio está publicado en GitHub Pages:  
- (https://github.com/KarolayF/Porfolio)
 
-o
+Puedes visitar el sitio directamente aquí:  
+👉 
 
+O clonar el repositorio para verlo localmente:
 
-## 🛠 Instalación Local
-
-1. Clona el repositorio:
 ```bash
-git clone (https://github.com/KarolayF/Porfolio.git).
+git clone https://github.com/karolayjavier/portfolio.git
 
-2. Abre el archivo index.html en tu navegador.
 
 
 
