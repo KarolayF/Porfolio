@@ -37,10 +37,10 @@ portfolio-karolay/
 Puedes visitar el sitio directamente aquí:  
 ```
 👉
-
+```
 _O clonar el repositorio para verlo localmente:_
 
-
+```
 git clone https://github.com/karolayjavier/portfolio.git
 ```
 
